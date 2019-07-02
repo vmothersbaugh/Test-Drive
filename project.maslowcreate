@@ -12,8 +12,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 1001,
-                    "y": 164,
+                    "x": 650,
+                    "y": 235,
                     "uniqueID": 852859,
                     "ioValues": [
                         {
@@ -30,7 +30,13 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 852859
+                }
+            ],
             "fileTypeVersion": 1
         }
     ],
