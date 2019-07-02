@@ -10,6 +10,19 @@
             "topLevel": true,
             "allAtoms": [
                 {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 1001,
+                    "y": 164,
+                    "uniqueID": 852859,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 615237",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1870,
